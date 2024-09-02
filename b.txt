@@ -1,1 +1,3 @@
 Hi, this is a b.txt file and want.
+
+this is a change to see how it works on github. --change : commit 2
