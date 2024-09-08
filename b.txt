@@ -10,3 +10,5 @@ this is a change to see how it works on github. --change : commit 2
 
 - Change in Local Repo 2 
  - 3
+
+ - Editing a part 3
